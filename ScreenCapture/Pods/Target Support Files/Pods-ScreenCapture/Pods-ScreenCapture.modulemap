@@ -1,0 +1,6 @@
+framework module Pods_ScreenCapture {
+  umbrella header "Pods-ScreenCapture-umbrella.h"
+
+  export *
+  module * { export * }
+}
