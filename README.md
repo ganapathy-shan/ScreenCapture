@@ -26,13 +26,7 @@ Setup Instructions
 
 1.  Navigate to the `ScreenCapture` project directory.
 2.  Run the following command to install dependencies:
-
-    bash
-
-    Copy code
-
     `pod install`
-
 3.  Open the `.xcworkspace` file in Xcode.
 4.  Build and run the project.
 
@@ -41,19 +35,8 @@ Setup Instructions
 If you encounter build issues:
 
 1.  Remove the Pods directory and lock file:
-
-    bash
-
-    Copy code
-
     `rm -rf Pods/ Podfile.lock`
-
 2.  Reinstall CocoaPods:
-
-    bash
-
-    Copy code
-
     `pod install`
 
 * * * * *
